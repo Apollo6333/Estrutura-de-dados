@@ -1,1 +1,1 @@
-# Estrutura-de-dados
+A estrutura de dados se trata da organização, gerenciamento e eficiência da manipulação de dados, por meio de regras e formatos, fazendo trabalhos complexos terem mais eficiência, e de modo geral, terem maior nível de qualidade
